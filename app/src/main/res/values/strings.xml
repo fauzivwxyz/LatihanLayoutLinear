@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatihanLayoutLinear</string>
+    <string name="satu">SATU</string>
+    <string name="tombol_1">TOMBOL 1</string>
+    <string name="tombol_2">TOMBOL 2</string>
+    <string name="tombol_3">TOMBOL 3</string>
+</resources>
